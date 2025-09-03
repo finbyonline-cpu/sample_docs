@@ -1,31 +1,31 @@
-# المحتوى
+# Content
 
-## عام
+## General
 
-{% content-ref url="../ar/general/app-license/" %}
-[app-license](../ar/general/app-license/)
+{% content-ref url="../general/app-license/" %}
+[app-license](../general/app-license/)
 {% endcontent-ref %}
 
-{% content-ref url="../ar/general/app-rules/" %}
-[app-rules](../ar/general/app-rules/)
+{% content-ref url="../general/app-rules/" %}
+[app-rules](../general/app-rules/)
 {% endcontent-ref %}
 
-{% content-ref url="../ar/general/privacy-policy/" %}
-[privacy-policy](../ar/general/privacy-policy/)
+{% content-ref url="../general/privacy-policy/" %}
+[privacy-policy](../general/privacy-policy/)
 {% endcontent-ref %}
 
-## الأدلة
+## Guides
 
-{% content-ref url="../ar/guide/app-guide/" %}
-[app-guide](../ar/guide/app-guide/)
+{% content-ref url="../guide/app-guide/" %}
+[app-guide](../guide/app-guide/)
 {% endcontent-ref %}
 
-{% content-ref url="../ar/guide/portal-guide/" %}
-[portal-guide](../ar/guide/portal-guide/)
+{% content-ref url="../guide/portal-guide/" %}
+[portal-guide](../guide/portal-guide/)
 {% endcontent-ref %}
 
-## المساعدة
+## Help
 
-{% content-ref url="../ar/help/faq/" %}
-[faq](../ar/help/faq/)
+{% content-ref url="../help/faq/" %}
+[faq](../help/faq/)
 {% endcontent-ref %}
